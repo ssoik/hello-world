@@ -1,2 +1,2 @@
 Hello!
-I am a txt file in a Git repo!
+I am a txt file in a GitHub repo!
